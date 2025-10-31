@@ -111,4 +111,3 @@ public class AccountTest {
         System.out.println("(5) 離開");
     }
 }
-7
